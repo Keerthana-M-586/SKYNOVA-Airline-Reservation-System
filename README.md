@@ -32,11 +32,11 @@ How to Run
 
 Project Team
 
-- Student 1 – Registration Number
-- Student 2 – Registration Number
-- Student 3 – Registration Number
+1.Syed.Shehnaz-AP25110011014
+2.Mundlapalli Keerthana-AP25110010819
+3.Gunja Mercy Sahasra-AP25110010978
 
-Faculty Mentor
+Faculty
 
 Dr. Kunal Biswas
 
